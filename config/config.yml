@@ -1,0 +1,13 @@
+Database:
+  DbType: mysql
+  DbName: go-chain
+  Host: 127.0.0.1:3306
+  Username: root
+  Pwd: 
+  Charset: utf8
+  ParseTime: True
+
+BlockChain:
+  RpcUrl: https://eth-sepolia.g.alchemy.com/v2/GBDdpIse13KF_izTI2-J5KACwNNtxS0Z
+
+  #https://arb-sepolia.g.alchemy.com/v2/GBDdpIse13KF_izTI2-J5KACwNNtxS0Z
